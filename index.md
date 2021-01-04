@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+---
+title: 漫谈数字家庭再规划之道
 
-You can use the [editor on GitHub](https://github.com/liangxincn/xin_bookgit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
+## 作品简介
+本书只是试着通过自己多年办公、学习经验中谈一点关于个人数字家庭再规划的感悟和想法，权作抛砖引玉，以期能对各位家庭各个数字设备给予更加高效、合理的搭配，提升我们的生活质量。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liangxincn/xin_bookgit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [简介](/works)
+- [第0章 前言](/works_00)
+- [第1章 开启数字家庭的魔方](/works_01)
+- [第2章 确立科学、高效的思维体系](/works_02)
+- [第3章 玩转严谨而又智慧的硬件配置](/works_03)
+- [第4章 选择安全、有效的高速网络](/works_04)
+- [第5章 统筹安全、高效的软件环境](/works_05)
+- [第6章 数字家庭再规划的有效法则](/works_06)
+- [第7章 结语](/works_07)
